@@ -65,4 +65,4 @@ it under the same terms as Perl itself.
 
 shibayu36 <shibayu36@gmail.com>
 
-nanto\_vi (TOYAMA Nao) <nanto@moon.email.ne.jp<gt>
+nanto\_vi (TOYAMA Nao) <nanto@moon.email.ne.jp>

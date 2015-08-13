@@ -58,6 +58,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/hatena/Test-Time-At/issues"
+      },
+      "homepage" : "https://github.com/hatena/Test-Time-At",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/hatena/Test-Time-At.git",
+         "web" : "https://github.com/hatena/Test-Time-At"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:SHIBAZAKI"
 }

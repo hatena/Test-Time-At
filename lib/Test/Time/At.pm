@@ -96,7 +96,7 @@ it under the same terms as Perl itself.
 
 shibayu36 E<lt>shibayu36@gmail.comE<gt>
 
-nanto_vi (TOYAMA Nao) E<lt>nanto@moon.email.ne.jp<gt>
+nanto_vi (TOYAMA Nao) E<lt>nanto@moon.email.ne.jpE<gt>
 
 =cut
 
