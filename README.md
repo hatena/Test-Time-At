@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/hatena/Test-Time-At.svg?branch=master)](https://travis-ci.org/hatena/Test-Time-At)
 # NAME
 
 Test::Time::At - Do a test code, specifying the time
