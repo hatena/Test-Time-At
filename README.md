@@ -64,6 +64,6 @@ it under the same terms as Perl itself.
 
 # AUTHORS
 
-shibayu36 <shibayu36@gmail.com>
+shibayu36 &lt;shibayu36@gmail.com>
 
-nanto\_vi (TOYAMA Nao) <nanto@moon.email.ne.jp>
+nanto\_vi (TOYAMA Nao) &lt;nanto@moon.email.ne.jp>
