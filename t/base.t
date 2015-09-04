@@ -5,7 +5,6 @@ use Test::More;
 use Test::Time;
 use Test::Time::At;
 
-use DateTime;
 use Time::Piece;
 
 subtest 'do_at with epoch' => sub {
